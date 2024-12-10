@@ -1,0 +1,113 @@
+  
+  .login-wrap {
+    width: 300px;
+    margin: 0 auto;
+    margin-top:6% ;
+    margin-bottom: 9%;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  input[type="submit"] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  /* sign up */
+  
+  .signup-wrap {
+    width: 300px;
+    margin: 0 auto;
+    margin-top:3% ;
+    margin-bottom: 5%;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  input[type="submit"] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+
+  /* cart */
+
+  .cart{
+    margin: 2%;
+    margin-left: 25%;
+    /* margin-bottom: 10%; */
+  }
+
+  .fa{
+    font-size: 150%;
+    margin-top: 1%;
+    margin-left: 4.5%;
+  }
+/* Contact */
+  .contact-form {
+    width: 50%;
+    margin: 2% auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  .contact-form h2 {
+    text-align: center;
+  }
+  
+  .contact-form input {
+    width: 95%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    margin-bottom: 16px;
+  }
+  
+  .contact-form textarea {
+    width: 95%;
+    height: 150px;
+    padding: 12px;
+    border: 1px solid #ccc;
+    margin-bottom: 16px;
+  }
+  
+  .contact-form button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+  }
